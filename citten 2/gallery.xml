@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="citten 2" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>p1000067.jpg</filename>
+	<caption>p1000067.jpg</caption>
+</image><image>
+	<filename>p1000075.jpg</filename>
+	<caption>p1000075.jpg</caption>
+</image><image>
+	<filename>p1000078.jpg</filename>
+	<caption>p1000078.jpg</caption>
+</image><image>
+	<filename>p1000086.jpg</filename>
+	<caption>p1000086.jpg</caption>
+</image><image>
+	<filename>p1000091.jpg</filename>
+	<caption>p1000091.jpg</caption>
+</image><image>
+	<filename>p1000092.jpg</filename>
+	<caption>p1000092.jpg</caption>
+</image><image>
+	<filename>p1000083.jpg</filename>
+	<caption>p1000083.jpg</caption>
+</image><image>
+	<filename>p1000089.jpg</filename>
+	<caption>p1000089.jpg</caption>
+</image><image>
+	<filename>p1000239.jpg</filename>
+	<caption>p1000239.jpg</caption>
+</image><image>
+	<filename>p1000238.jpg</filename>
+	<caption>p1000238.jpg</caption>
+</image><image>
+	<filename>p1000250.jpg</filename>
+	<caption>p1000250.jpg</caption>
+</image><image>
+	<filename>p1000223.jpg</filename>
+	<caption>p1000223.jpg</caption>
+</image><image>
+	<filename>p1000133.jpg</filename>
+	<caption>p1000133.jpg</caption>
+</image><image>
+	<filename>p1000135.jpg</filename>
+	<caption>p1000135.jpg</caption>
+</image><image>
+	<filename>p1000167.jpg</filename>
+	<caption>p1000167.jpg</caption>
+</image><image>
+	<filename>p1000170.jpg</filename>
+	<caption>p1000170.jpg</caption>
+</image><image>
+	<filename>p1000175.jpg</filename>
+	<caption>p1000175.jpg</caption>
+</image><image>
+	<filename>p1000185.jpg</filename>
+	<caption>p1000185.jpg</caption>
+</image><image>
+	<filename>p1000190.jpg</filename>
+	<caption>p1000190.jpg</caption>
+</image><image>
+	<filename>p1000192.jpg</filename>
+	<caption>p1000192.jpg</caption>
+</image></simpleviewerGallery>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Godfrey's pond" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>40600014.jpg</filename>
+	<caption>40600014.jpg</caption>
+</image><image>
+	<filename>40600019.jpg</filename>
+	<caption>40600019.jpg</caption>
+</image><image>
+	<filename>40600020.jpg</filename>
+	<caption>40600020.jpg</caption>
+</image><image>
+	<filename>40600022.jpg</filename>
+	<caption>40600022.jpg</caption>
+</image><image>
+	<filename>40600023.jpg</filename>
+	<caption>40600023.jpg</caption>
+</image><image>
+	<filename>40600027.jpg</filename>
+	<caption>40600027.jpg</caption>
+</image><image>
+	<filename>40600033.jpg</filename>
+	<caption>40600033.jpg</caption>
+</image></simpleviewerGallery>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="New cameracat" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>p1000002.jpg</filename>
+	<caption>p1000002.jpg</caption>
+</image><image>
+	<filename>p1000012.jpg</filename>
+	<caption>p1000012.jpg</caption>
+</image><image>
+	<filename>p1000014.jpg</filename>
+	<caption>p1000014.jpg</caption>
+</image><image>
+	<filename>p1000015.jpg</filename>
+	<caption>p1000015.jpg</caption>
+</image><image>
+	<filename>p1000017.jpg</filename>
+	<caption>p1000017.jpg</caption>
+</image><image>
+	<filename>p1000019.jpg</filename>
+	<caption>p1000019.jpg</caption>
+</image><image>
+	<filename>p1000020.jpg</filename>
+	<caption>p1000020.jpg</caption>
+</image><image>
+	<filename>p1000023.jpg</filename>
+	<caption>p1000023.jpg</caption>
+</image><image>
+	<filename>p1000025.jpg</filename>
+	<caption>p1000025.jpg</caption>
+</image><image>
+	<filename>p1000026.jpg</filename>
+	<caption>p1000026.jpg</caption>
+</image><image>
+	<filename>p1000032.jpg</filename>
+	<caption>p1000032.jpg</caption>
+</image><image>
+	<filename>p1000033.jpg</filename>
+	<caption>p1000033.jpg</caption>
+</image></simpleviewerGallery>

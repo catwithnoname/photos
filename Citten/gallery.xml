@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Citten" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>00000001.jpg</filename>
+	<caption>00000001.jpg</caption>
+</image><image>
+	<filename>00000003.jpg</filename>
+	<caption>00000003.jpg</caption>
+</image><image>
+	<filename>00000004.jpg</filename>
+	<caption>00000004.jpg</caption>
+</image><image>
+	<filename>00000005.jpg</filename>
+	<caption>00000005.jpg</caption>
+</image><image>
+	<filename>thoughtfulkitten.jpg</filename>
+	<caption>thoughtfulkitten.jpg</caption>
+</image><image>
+	<filename>00000007.jpg</filename>
+	<caption>00000007.jpg</caption>
+</image><image>
+	<filename>00000008.jpg</filename>
+	<caption>00000008.jpg</caption>
+</image><image>
+	<filename>00000002.jpg</filename>
+	<caption>00000002.jpg</caption>
+</image><image>
+	<filename>00000013.jpg</filename>
+	<caption>00000013.jpg</caption>
+</image><image>
+	<filename>00000010.jpg</filename>
+	<caption>00000010.jpg</caption>
+</image><image>
+	<filename>00000012.jpg</filename>
+	<caption>00000012.jpg</caption>
+</image><image>
+	<filename>00000019.jpg</filename>
+	<caption>00000019.jpg</caption>
+</image><image>
+	<filename>00000011.jpg</filename>
+	<caption>00000011.jpg</caption>
+</image><image>
+	<filename>00000018.jpg</filename>
+	<caption>00000018.jpg</caption>
+</image><image>
+	<filename>00000006.jpg</filename>
+	<caption>00000006.jpg</caption>
+</image><image>
+	<filename>00000015.jpg</filename>
+	<caption>00000015.jpg</caption>
+</image><image>
+	<filename>00000014.jpg</filename>
+	<caption>00000014.jpg</caption>
+</image><image>
+	<filename>00000016.jpg</filename>
+	<caption>00000016.jpg</caption>
+</image><image>
+	<filename>00000017.jpg</filename>
+	<caption>00000017.jpg</caption>
+</image><image>
+	<filename>00000009.jpg</filename>
+	<caption>00000009.jpg</caption>
+</image><image>
+	<filename>cat_to_scale.jpg</filename>
+	<caption>cat_to_scale.jpg</caption>
+</image><image>
+	<filename>40600005.jpg</filename>
+	<caption>40600005.jpg</caption>
+</image><image>
+	<filename>40600007.jpg</filename>
+	<caption>40600007.jpg</caption>
+</image><image>
+	<filename>40600013.jpg</filename>
+	<caption>40600013.jpg</caption>
+</image><image>
+	<filename>40600001.jpg</filename>
+	<caption>40600001.jpg</caption>
+</image><image>
+	<filename>40600002.jpg</filename>
+	<caption>40600002.jpg</caption>
+</image></simpleviewerGallery>

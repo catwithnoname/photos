@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="garden" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>40600012.jpg</filename>
+	<caption>40600012.jpg</caption>
+</image><image>
+	<filename>40600015.jpg</filename>
+	<caption>40600015.jpg</caption>
+</image><image>
+	<filename>40600016.jpg</filename>
+	<caption>40600016.jpg</caption>
+</image><image>
+	<filename>green.jpg</filename>
+	<caption>green.jpg</caption>
+</image><image>
+	<filename>40600017.jpg</filename>
+	<caption>40600017.jpg</caption>
+</image><image>
+	<filename>40600018.jpg</filename>
+	<caption>40600018.jpg</caption>
+</image><image>
+	<filename>blue.jpg</filename>
+	<caption>blue.jpg</caption>
+</image></simpleviewerGallery>

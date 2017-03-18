@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Jorvik" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>viking_with_town_centre_back_drop.jpg</filename>
+	<caption>viking_with_town_centre_back_drop.jpg</caption>
+</image><image>
+	<filename>blank_coin_about_to_be_struck_on_a_die.jpg</filename>
+	<caption>blank_coin_about_to_be_struck_on_a_die.jpg</caption>
+</image><image>
+	<filename>ancient_axehead.jpg</filename>
+	<caption>ancient_axehead.jpg</caption>
+</image><image>
+	<filename>bowed_building.jpg</filename>
+	<caption>bowed_building.jpg</caption>
+</image><image>
+	<filename>abbey_ruins.jpg</filename>
+	<caption>abbey_ruins.jpg</caption>
+</image><image>
+	<filename>more_abbey_ruins.jpg</filename>
+	<caption>more_abbey_ruins.jpg</caption>
+</image><image>
+	<filename>more_ruins.jpg</filename>
+	<caption>more_ruins.jpg</caption>
+</image><image>
+	<filename>ancient_helmet.jpg</filename>
+	<caption>ancient_helmet.jpg</caption>
+</image></simpleviewerGallery>

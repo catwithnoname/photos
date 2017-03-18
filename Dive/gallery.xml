@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewerGallery maxImageHeight="1024" maxImageWidth="1024" textColor="0xFFFFFF" frameColor="0xffffff" frameWidth="20" stagePadding="40" thumbnailColumns="3" thumbnailRows="3" navPosition="left" title="Dive" enableRightClickOpen="true" backgroundImagePath="" thumbPath="thumbnails/" imagePath="" ><image>
+	<filename>40600035.jpg</filename>
+	<caption>40600035.jpg</caption>
+</image><image>
+	<filename>40600036.jpg</filename>
+	<caption>40600036.jpg</caption>
+</image><image>
+	<filename>40600037.jpg</filename>
+	<caption>40600037.jpg</caption>
+</image><image>
+	<filename>40600038.jpg</filename>
+	<caption>40600038.jpg</caption>
+</image><image>
+	<filename>40600039.jpg</filename>
+	<caption>40600039.jpg</caption>
+</image><image>
+	<filename>40600045.jpg</filename>
+	<caption>40600045.jpg</caption>
+</image><image>
+	<filename>40600046.jpg</filename>
+	<caption>40600046.jpg</caption>
+</image><image>
+	<filename>40600048.jpg</filename>
+	<caption>40600048.jpg</caption>
+</image><image>
+	<filename>40600053.jpg</filename>
+	<caption>40600053.jpg</caption>
+</image><image>
+	<filename>40600055.jpg</filename>
+	<caption>40600055.jpg</caption>
+</image><image>
+	<filename>40600056.jpg</filename>
+	<caption>40600056.jpg</caption>
+</image><image>
+	<filename>40600058.jpg</filename>
+	<caption>40600058.jpg</caption>
+</image><image>
+	<filename>40600059.jpg</filename>
+	<caption>40600059.jpg</caption>
+</image><image>
+	<filename>40600060.jpg</filename>
+	<caption>40600060.jpg</caption>
+</image><image>
+	<filename>40600061.jpg</filename>
+	<caption>40600061.jpg</caption>
+</image><image>
+	<filename>40600063.jpg</filename>
+	<caption>40600063.jpg</caption>
+</image><image>
+	<filename>40600064.jpg</filename>
+	<caption>40600064.jpg</caption>
+</image><image>
+	<filename>40600065.jpg</filename>
+	<caption>40600065.jpg</caption>
+</image><image>
+	<filename>40600066.jpg</filename>
+	<caption>40600066.jpg</caption>
+</image><image>
+	<filename>40600067.jpg</filename>
+	<caption>40600067.jpg</caption>
+</image></simpleviewerGallery>
